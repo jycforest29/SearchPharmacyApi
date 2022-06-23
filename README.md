@@ -1,5 +1,9 @@
 # SearchPharmacyApi
 서버로 사용한 REST API
+# 파일별 설명
+서버 - apiProject(drf 서버 코드), env(가상환경)
+DB - 
+DB 전처리 과정 - jupyterFolder(주피터 노트북 파일 및 데이터 원본들)
 # 모델별 사용한 데이터 및 데이터 전처리 기준
 ## 전체적인 설명
 이 프로젝트의 핵심 기능은 동 검색시 해당 동에 속하는 여러개의 도로명 주소가 나오는 것.<br>
